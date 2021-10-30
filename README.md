@@ -1,9 +1,10 @@
 # Hi there 👋 Nabeel Mirza
 
+I am a Native Android Developer who deeply love open source. I am passionate about making high quality applications for good user interactions. Also as a programmer, I practice Data Structures and Algorithms at CodeChef. For the artist in me smartphone is my canvas.
 
-- I'm Nabeel Mirza. I love Android and want to improve it for the better.
+
 - 🌱 I’m currently learning kotlin for Android Development.
-- 👯 I’m looking to collaborate on any project regarding android or java.
+- 👯 I’m looking to collaborate on projects regarding android or java.
 - 😄 Pronouns: Droc, Drogo
 
 ## Connect with me
