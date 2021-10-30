@@ -4,7 +4,7 @@ I am a Native Android Developer who deeply love open source. I am passionate abo
 
 
 - 🌱 I’m currently learning kotlin for Android Development.
-- 🔭 I’m currently working on a side project [RMR](https://github.com/drocgoesongit/RMR). 
+- 🔭 I’m currently working on a side project [RMR](https://github.com/drocgoesongit/RMR) with my college team. 
 - 👯 I’m looking to collaborate on projects regarding android or java.
 - 😄 Pronouns: he/him
 
