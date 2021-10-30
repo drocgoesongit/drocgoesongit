@@ -12,10 +12,7 @@ I am a Native Android Developer who deeply love open source. I am passionate abo
 - 😄 Pronouns: he/him
 
 ## Connect with me
-
-[![Twitter: NabeelMirza](https://img.shields.io/twitter/follow/NabeelM08239730?style=social)](https://twitter.com/NabeelM08239730)
-[![Linkedin: NabeelMirza](https://img.shields.io/badge/-NabeelMirza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaianebraga/)](https://www.linkedin.com/in/nabeel-mirza-b72362207/)
-[![GitHub Drocgoesongit](https://img.shields.io/github/followers/drocgoesongit?label=follow&style=social)](https://github.com/drocgoesongit) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/drocgoesongit)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabeel-mirza-b72362207//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mirza_nabeel_7//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/NabeelM08239730) 
 
 
 
