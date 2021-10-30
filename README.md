@@ -5,7 +5,7 @@ I am a Native Android Developer who deeply love open source. I am passionate abo
 
 - 🌱 I’m currently learning kotlin for Android Development.
 - 👯 I’m looking to collaborate on projects regarding android or java.
-- 😄 Pronouns: Droc, Drogo
+- 😄 Pronouns: he/him
 
 ## Connect with me
 
