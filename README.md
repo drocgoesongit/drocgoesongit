@@ -1,7 +1,7 @@
 # Hi 👋 I'm Nabeel Mirza
 
 
-![Nabeel-Banner](https://github.com/drocgoesongit/drocgoesongit/blob/master/backgorund.png)
+![Banner](https://github.com/drocgoesongit/drocgoesongit/blob/master/backgorund.png)
 
 I am a Native Android Developer who deeply loves open source. I am passionate about making high-quality applications for good user interactions. Also as a programmer, I practice Data Structures and Algorithms at CodeChef. For the artist in me, the smartphone is my canvas.
 
@@ -9,7 +9,6 @@ I am a Native Android Developer who deeply loves open source. I am passionate ab
 - 🌱 I’m currently learning kotlin for Android Development.
 - 🔭 I’m currently working on a side project [RMR](https://github.com/drocgoesongit/RMR) with my college team. 
 - 👯 I’m looking to collaborate on projects regarding android or java.
-- 😄 Pronouns: he/him
 
 ## Connect with me
 
