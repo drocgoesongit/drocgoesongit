@@ -10,6 +10,10 @@ I am a Native Android Developer who deeply loves open source. I am passionate ab
 - 🔭 I’m currently working on a side project [RMR](https://github.com/drocgoesongit/RMR) with my college team. 
 - 👯 I’m looking to collaborate on projects regarding android or java.
 
+[![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=drocgoesongit&show_icons=true)](https://github.com/drocgoesongit/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drocgoesongit&hide=python,html&langs_count=3)](https://github.com/drocgoesongit/github-readme-stats)
+
+
 ## Connect with me
 
 &nbsp;&nbsp;[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nabeel-mirza-b72362207//) 
