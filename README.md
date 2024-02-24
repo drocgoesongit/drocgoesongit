@@ -1,14 +1,12 @@
 # Hi 👋 I'm Nabeel Mirza
 
+![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/drocgoesongit/drocgoesongit/assets/82268112/ad2f0fe3-ccd8-4cf8-9191-818fd7e9336d)
 
-![Banner](https://github.com/drocgoesongit/drocgoesongit/blob/master/backgorund.png)
 
 I am a Native Android Developer who deeply loves open source. I am passionate about making high-quality applications for good user interactions. Also as a programmer, I practice Data Structures and Algorithms at CodeChef. For the artist in me, the smartphone is my canvas.
 
 
-- 🌱 I’m currently learning kotlin for Android Development.
-- 🔭 I’m currently working on a side project [RMR](https://github.com/drocgoesongit/RMR) with my college team. 
-- 👯 I’m looking to collaborate on projects regarding android or java.
+[Developer Profile Play Store](https://play.google.com/store/apps/dev?id=4896162907476085829)
 
   
 [![Nabeel's GitHub stats](https://github-readme-stats.vercel.app/api?username=drocgoesongit&show_icons=true&theme=dark)](https://github.com/drocgoesongit/github-readme-stats)\
