@@ -1,5 +1,3 @@
-# Hi 👋 I'm Nabeel Mirza
-
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/drocgoesongit/drocgoesongit/assets/82268112/ad2f0fe3-ccd8-4cf8-9191-818fd7e9336d)
 
 
