@@ -1,8 +1,16 @@
 ![Black Minimal Motivation Quote LinkedIn Banner](https://github.com/drocgoesongit/drocgoesongit/assets/82268112/ad2f0fe3-ccd8-4cf8-9191-818fd7e9336d)
 
 
-I am a Native Android Developer who deeply loves open source. I am passionate about making high-quality applications for good user interactions. Also as a programmer, I practice Data Structures and Algorithms at CodeChef. For the artist in me, the smartphone is my canvas.
+# Hi there! I'm Nabeel Mirza 👋
+- Computer Science Graduate from Mumbai University (AI & ML, 2024)
+- Passionate Mobile Developer with experience in Flutter
+- Eager Learner enthusiastic about AI, ML, and LLMs
+- Aspiring Developer looking to grow in full-stack and frontend development
 
+
+I love building innovative solutions and am always open to collaborating on exciting projects. Let's connect and create something amazing together!
+
+[Personal Portfolio](https://nabeelmirza.tech)
 
 [Developer Profile Play Store](https://play.google.com/store/apps/dev?id=4896162907476085829)
 
