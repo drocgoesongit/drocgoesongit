@@ -8,6 +8,12 @@
 - Aspiring Developer looking to grow in full-stack and frontend development
 
 
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=khanmubashshirazeem&label=Profile%20views&color=1DB954&style=flat" alt="khanmubashshirazeem" />
+</p>
+
+
+
 I love building innovative solutions and am always open to collaborating on exciting projects. Let's connect and create something amazing together!
 
 [Personal Portfolio](https://nabeelmirza.tech)
